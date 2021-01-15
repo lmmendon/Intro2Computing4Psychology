@@ -1,3 +1,4 @@
+My copy of the read-me of this file! Forked for class. 
 #+Title: Introduction to Computing for Psychology Students
 #+Author: Britt Anderson
 
